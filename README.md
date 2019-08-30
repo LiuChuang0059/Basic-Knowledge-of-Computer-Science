@@ -108,8 +108,17 @@
 
 ### 5. 推荐系统
 
+[相关论文阅读](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/Papers_Learning/README.md)
 
-
+|   	|
+|---	|
+|   [推荐系统_概念](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F_%E6%A6%82%E5%BF%B5.md)	|
+|   [内容推荐](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90.md)	|
+|   [近邻推荐-协同过滤](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/%E8%BF%91%E9%82%BB%E6%8E%A8%E8%8D%90-%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4.md)	|
+|   [矩阵分解](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.md)	|
+|   [深度学习推荐](https://github.com/LiuChuang0059/Basic-knowledge-of-CS/blob/master/Recommendation_Agorithm/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0--%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F.md)	|
+|   [...]()	|
+|   []()	|
 
 
 
